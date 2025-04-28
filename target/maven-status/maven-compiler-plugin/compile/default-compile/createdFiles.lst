@@ -1,0 +1,4 @@
+com/example/spotify/controller/SpotifyController.class
+com/example/spotify/model/TrackInfo.class
+com/example/spotify/service/SpotifyService.class
+com/example/spotify/SpotifyDashboardApplication.class
